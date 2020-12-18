@@ -13,7 +13,7 @@ $outputTokenCSS: false;
     border-radius: 100px 100px 0 0;
     display: block;
     height: 300px;
-    margin: 0 35px 10px;
+    margin: -5px 35px 10px;
     padding: 5px;
     position: relative;
     width: 30px;
@@ -24,7 +24,7 @@ $outputTokenCSS: false;
     display: block;
     width: 20px;
     position: absolute;
-     bottom: 5px;
+     bottom: -5px;
   }
   strong {margin-top: 1rem;}
   .goal {
